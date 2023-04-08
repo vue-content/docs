@@ -1,0 +1,32 @@
+{
+  "name": "@vue-content/docs",
+  "version": "1.0.0",
+  "description": "Docs for vue-content",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vue-content/docs.git"
+  },
+  "keywords": [
+    "vue",
+    "cms",
+    "vue-content",
+    "docs"
+  ],
+  "author": "Robert Rosman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vue-content/docs/issues"
+  },
+  "homepage": "https://www.vue-content.com",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "vitepress": "^1.0.0-alpha.60"
+  }
+}
