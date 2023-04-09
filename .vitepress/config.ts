@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "vue-content",
   description: "The official docs for vue-content",
+  cleanUrls: true,
   themeConfig: {
     outline: [2, 3],
     // https://vitepress.dev/reference/default-theme-config
